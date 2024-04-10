@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "575502485664",
+    "firebase_url": "https://mp-college-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mp-college-app",
+    "storage_bucket": "mp-college-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575502485664:android:f3c1da36168a166d09a1c5",
+        "android_client_info": {
+          "package_name": "com.example.admin_college"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwKkx2p28RtakZQBtmyGl_Z2pnNEMvYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575502485664:android:c708b62b1409a98d09a1c5",
+        "android_client_info": {
+          "package_name": "com.rohitparmar.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwKkx2p28RtakZQBtmyGl_Z2pnNEMvYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575502485664:android:20cd4e34031f59d609a1c5",
+        "android_client_info": {
+          "package_name": "com.rohitparmar.college_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwKkx2p28RtakZQBtmyGl_Z2pnNEMvYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
